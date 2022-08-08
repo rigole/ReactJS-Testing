@@ -5,3 +5,9 @@ Object {
   "default": [Function],
 }
 `;
+
+exports[`should have input 1`] = `
+<input
+  type="text"
+/>
+`;
